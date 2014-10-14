@@ -1,4 +1,4 @@
-cohesion
+BMGF
 ========
 
-Analysis for cohesion project
+Repository for BMGF project
